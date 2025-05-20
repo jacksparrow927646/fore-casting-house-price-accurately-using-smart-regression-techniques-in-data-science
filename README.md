@@ -140,7 +140,7 @@ Evaluation Metrics:
 
 ## 🔗 GitHub Repository
 
-👉 [GitHub Link]
+👉 [GitHub Link]https://github.com/jacksparrow927646/fore-casting-house-price-accurately-using-smart-regression-techniques-in-data-science.git
 
 
 
